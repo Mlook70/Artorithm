@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* ARTORITHM Brand Colors */
+    --background: 210 11% 7%; /* #0f1211 */
+    --foreground: 160 14% 93%; /* #e7eceb */
+
+    --muted: 240 2% 16%; /* #27272a */
+    --muted-foreground: 160 14% 93% / 0.7; /* rgba(231, 236, 235, 0.7) */
+    --muted-foreground-light: 160 14% 93% / 0.5; /* rgba(231, 236, 235, 0.5) */
+    --muted-foreground-dark: 160 14% 93% / 0.6; /* rgba(231, 236, 235, 0.6) */
+
+    --card: 220 17% 98% / 0.01;
+    --card-foreground: 160 14% 93%;
+
+    --popover: 210 11% 7%;
+    --popover-foreground: 160 14% 93%;
+
+    /* ARTORITHM Primary Colors - Blue (#4C4CE2) */
+    --primary: 240 100% 68%; /* #4C4CE2 */
+    --primary-foreground: 160 14% 93%; /* #e7eceb */
+    --primary-dark: 240 100% 58%; /* Darker blue */
+    --primary-light: 240 100% 78%; /* Lighter blue */
+
+    /* ARTORITHM Secondary Colors - Purple (#B44EBD) */
+    --secondary: 300 60% 56%; /* #B44EBD */
+    --secondary-foreground: 160 14% 93%; /* #e7eceb */
+    --secondary-dark: 300 60% 46%; /* Darker purple */
+    --secondary-light: 300 60% 66%; /* Lighter purple */
+
+    --accent: 300 60% 56%; /* #B44EBD */
+    --accent-foreground: 160 14% 93%; /* #e7eceb */
+
+    --border: 240 100% 100% / 0.08; /* rgba(255, 255, 255, 0.08) */
+    --border-light: 210 17% 6% / 0.1; /* rgba(16,24,40,0.1) */
+    --border-dark: 210 17% 6% / 0.05; /* rgba(16,24,40,0.05) */
+
+    --ring: 240 100% 68%; /* #4C4CE2 */
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
