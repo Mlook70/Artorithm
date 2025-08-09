@@ -15,6 +15,38 @@
   <p><strong>Transform Your Business with Digital Innovation</strong></p>
 </div>
 
+## 🎨 UI/UX Showcase
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mlook70/Artorithm/main/public/images/readme/readme_1.png" alt="ARTORITHM Landing Page - Hero Section" width="100%" />
+  <p><em>Hero Section - Transform Your Business with Digital Innovation</em></p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mlook70/Artorithm/main/public/images/readme/readme_2.png" alt="ARTORITHM Landing Page - Services Section" width="100%" />
+  <p><em>Services Section - Comprehensive Digital Solutions</em></p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mlook70/Artorithm/main/public/images/readme/readme_3.png" alt="ARTORITHM Landing Page - Features Grid" width="100%" />
+  <p><em>Features Grid - Modern UI Components</em></p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mlook70/Artorithm/main/public/images/readme/readme_4.png" alt="ARTORITHM Landing Page - Testimonials" width="100%" />
+  <p><em>Testimonials - Success Stories</em></p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mlook70/Artorithm/main/public/images/readme/readme_5.png" alt="ARTORITHM Landing Page - Pricing Section" width="100%" />
+  <p><em>Pricing Section - Flexible Solutions</em></p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mlook70/Artorithm/main/public/images/readme/readme_6.png" alt="ARTORITHM Landing Page - FAQ Section" width="100%" />
+  <p><em>FAQ Section - Smooth Animations</em></p>
+</div>
+
 ## 📋 Table of Contents
 
 - [About ARTORITHM](#about-artorithm)
